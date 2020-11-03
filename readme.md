@@ -1,3 +1,1 @@
-:sparkles: This is my Github repo
-
-Repo Readme Test
+![](https://github-readme-stats.vercel.app/api?username=hanbings&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
