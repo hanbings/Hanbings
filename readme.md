@@ -12,5 +12,5 @@
 
 **WeCopy** -- 云剪切板 https://github.com/hanbings/WeCopy
 
-**Fast WebSocket Stream Protocol** -- 快速WebSocket流协议 https://github.com/NanoKylin/Fast-WebSocket-Stream-Protocol
+**Fast WebSocket Packet Protocol** -- 快速WebSocket数据包协议 https://github.com/NanoKylin/Fast-WebSocket-Packet-Protocol
 
