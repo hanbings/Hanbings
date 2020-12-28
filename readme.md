@@ -8,9 +8,9 @@
 
 **OurChatServer** -- 一个聊天软件的服务端 https://github.com/hanbings/OurChatServer
 
-**GetCopyServer** -- 云剪切板服务端 https://github.com/hanbings/GetCopyServer
+**GetCopyServer** -- 云剪切板服务端 https://github.com/NanoKylin/GetCopyServer
 
-**WeCopy** -- 云剪切板 https://github.com/hanbings/WeCopy
+**WeCopy** -- 云剪切板 https://github.com/NanoKylin/WeCopy
 
 **Fast WebSocket Packet Protocol** -- 快速WebSocket数据包协议 https://github.com/NanoKylin/Fast-WebSocket-Packet-Protocol
 
