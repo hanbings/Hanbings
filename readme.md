@@ -2,11 +2,7 @@
 
 **我的活跃项目 | My Active Project**
 
-**CatPawServer** -- 一个可可爱爱的云笔记服务端 https://github.com/hanbings/CatPawServer
-
-**CatNote** -- 可可爱爱的猫猫云笔记 https://github.com/hanbings/CatNote
-
-**OurChatServer** -- 一个聊天软件的服务端 https://github.com/hanbings/OurChatServer
+**CatCore** -- 一个更轻量的Java应用程序框架 https://github.com/hanbings/CatCore
 
 **GetCopyServer** -- 云剪切板服务端 https://github.com/NanoKylin/GetCopyServer
 
